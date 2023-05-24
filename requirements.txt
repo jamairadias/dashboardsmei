@@ -25,4 +25,4 @@ six==1.16.0
 tenacity==8.2.2
 tzdata==2023.3
 virtualenv==20.17.0
-Werkzeug==2.3.4
+Werkzeug==2.2.3
